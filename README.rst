@@ -5,6 +5,11 @@ Pipin
 
 Pin packages in your requirements files with versions from your environment.
 
+Status
+------
+
+Pipin is maintained, feel free to open issues or pull requests.
+
 I want to get it!
 -----------------
 
